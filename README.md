@@ -1,2 +1,2 @@
 # LARS
-Evolving Game
+Slowly Evolving Game
